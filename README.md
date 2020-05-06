@@ -1,6 +1,6 @@
 # covid_pau
 
-A new Flutter application.
+Aplicación de Pau, para cursar su recuperación.... Con ayuda de tensorflow reconocimiento de radiografias de pacientes con COVID.
 
 ## Getting Started
 
